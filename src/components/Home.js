@@ -12,9 +12,9 @@ class Home extends Component {
          NodeJs , Jquery technologies . I used Magneto and Prestashop for setting up 
          online merchant stores . Below are some of works i have done in past ..</p>
  
-        <p> <a href="www.shopatkerala.com">shopatkerala</a> is a online accessiblity of the kvves kerala .
+        <p> <a href="http://www.shopatkerala.com">shopatkerala</a> is a online accessiblity of the kvves kerala .
          All merchants in kerala is under kvves and they uses this software to manage their needs .<br/>
-        <a href="www.uniware.in">uniware</a> is a company website devloped in core php .</p>
+        <a href="http://www.uniware.in">uniware</a> is a company website devloped in core php .</p>
       </div>
     );
   }
