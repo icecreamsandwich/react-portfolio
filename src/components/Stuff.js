@@ -4,7 +4,7 @@ class Stuff extends Component {
   render() {
     return (
       <div>
-        <h2>STUFF</h2>
+        <h2>About</h2>
         <p>Mauris sem velit, vehicula eget sodales vitae,
         rhoncus eget sapien:</p>
          <table className="wsite-multicol-table">
@@ -12,7 +12,7 @@ class Stuff extends Component {
           <tr className="wsite-multicol-tr">
             <td className="wsite-multicol-col" style={{width: '50%', padding: '0 20px'}}>
               <div><div className="wsite-image wsite-image-border-none " style={{paddingTop: 10, paddingBottom: 10, marginLeft: 0, marginRight: 0, textAlign: 'center'}}>
-                    <img src="https://spreadpeaceworld.weebly.com/uploads/4/2/3/3/42330715/20180120-122447.jpg" alt="Picture" style={{width: 415, maxWidth: '100%'}} />
+                    <img src="https://spreadpeaceworld.weebly.com/uploads/4/2/3/3/42330715/20180120-122447.jpg" style={{width: 415, maxWidth: '100%'}} />
                   <div style={{display: 'block', fontSize: '90%'}} />
                 </div></div>
             </td>				<td className="wsite-multicol-col" style={{width: '50%', padding: '0 20px'}}>

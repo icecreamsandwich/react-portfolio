@@ -5,14 +5,16 @@ class Home extends Component {
     return (
       <div>
         <h2>HELLO</h2>
-        <p>Cras facilisis urna ornare ex volutpat, et
-        convallis erat elementum. Ut aliquam, ipsum vitae
-        gravida suscipit, metus dui bibendum est, eget rhoncus nibh
-        metus nec massa. Maecenas hendrerit laoreet augue
-        nec molestie. Cum sociis natoque penatibus et magnis
-        dis parturient montes, nascetur ridiculus mus.</p>
+        <p>I am a php developer with more than 5 years of experience . 
+          My area of expertise include web development using frameworks such as
+          Drupal8, CodeIgniter, Zend,wordpress,Joomla etc ..
+         I am also an expert in front development using technologies such as React, React Native , 
+         NodeJs , Jquery technologies . I used Magneto and Prestashop for setting up 
+         online merchant stores . Below are some of works i have done in past ..</p>
  
-        <p>Duis a turpis sed lacus dapibus elementum sed eu lectus.</p>
+        <p> <a href="www.shopatkerala.com">shopatkerala</a> is a online accessiblity of the kvves kerala .
+         All merchants in kerala is under kvves and they uses this software to manage their needs .<br/>
+        <a href="www.uniware.in">uniware</a> is a company website devloped in core php .</p>
       </div>
     );
   }

@@ -5,9 +5,12 @@ class Contact extends Component {
     return (
       <div>
         <h2>GOT QUESTIONS?</h2>
-        <p>The easiest thing to do is post on
-        our <a href="http://forum.kirupa.com">forums</a>.
-        </p>
+        <p>Feel free to contact any of the platforms below : </p><br/>
+        <font size="3"><strong><font color="#dab844">gmail </font>: &nbsp;muneebkt@gmail.com<br/>
+        <font color="#5ce0b6">twitter </font>: <a target="_blank" href="https://www.twitter.com/muneebkt">&nbsp;muneebkt</a><br/>
+        <font color="#da73d2">fb </font>: <a target="_blank" href="http://www.facebook.com/muneebkt">muneebkt<br/></a>
+        <font color="#6cb83a">skype </font>: muneebkt1</strong><br/><strong>
+        <font color="#a85f2e">mob</font>: &nbsp;+91 9947875197</strong></font>
       </div>
     );
   }
